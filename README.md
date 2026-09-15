@@ -1,21 +1,21 @@
-# 🌾 Solos Inteligentes
+#  Solos Inteligentes
 
 **Solução Analítica para Recomendação Inteligente de Plantio baseada em Espectroscopia de Solo**
 
 Uma plataforma de análise de dados que transforma leituras de sensores espectrais de solo em inteligência acionável e autônoma para otimização de práticas agrícolas.
 
-## 📋 Visão Geral
+##  Visão Geral
 
 Solos Inteligentes é um projeto que integra dados espectrais de solo da **Brazilian Soil Spectral Library (BSSL)** com algoritmos de machine learning para fornecer recomendações de plantio baseadas em características físico-químicas do solo.
 
 ### Objetivos Principais
 
-- 📊 **Análise Espectral**: Processar e interpretar dados de sensores espectrais de solo
-- 🤖 **Recomendações Inteligentes**: Gerar sugestões de plantio baseadas em atributos do solo
-- 🌱 **Automação Agrícola**: Transformar dados brutos em decisões acionáveis no campo
-- 📈 **Escalabilidade**: Solução modular e extensível para diferentes contextos agrícolas
+-  **Análise Espectral**: Processar e interpretar dados de sensores espectrais de solo
+-  **Recomendações Inteligentes**: Gerar sugestões de plantio baseadas em atributos do solo
+-  **Automação Agrícola**: Transformar dados brutos em decisões acionáveis no campo
+-  **Escalabilidade**: Solução modular e extensível para diferentes contextos agrícolas
 
-## 🎯 Funcionalidades
+##  Funcionalidades
 
 - Leitura e processamento de dados espectrais de solo
 - Extração e análise de atributos físico-químicos
@@ -23,7 +23,7 @@ Solos Inteligentes é um projeto que integra dados espectrais de solo da **Brazi
 - Visualizações analíticas dos dados
 - Pipeline completo de dados (ETL)
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Python 3.x**
 - **Jupyter Notebook** - Análise e documentação interativa
@@ -46,7 +46,7 @@ Solos_Inteligentes/
 └── requirements.txt          # Dependências do projeto
 ```
 
-## 🚀 Como Começar
+##  Como Começar
 
 ### Pré-requisitos
 
@@ -81,7 +81,7 @@ Abra os notebooks Jupyter para explorar as análises:
 jupyter notebook
 ```
 
-## 📊 Fonte de Dados
+##  Fonte de Dados
 
 Os dados utilizados provêm da **Brazilian Soil Spectral Library (BSSL)**, uma biblioteca abrangente de espectros de solo que inclui:
 - Reflectância espectral
@@ -89,7 +89,11 @@ Os dados utilizados provêm da **Brazilian Soil Spectral Library (BSSL)**, uma b
 - Classificações de solo
 - Localização geográfica
 
-## 🔬 Metodologia
+Datasets: [Brazilian Soil Spectral Library (BSSL) - Zenodo](https://zenodo.org/records/8092774)
+
+Literatura Base: [Artigo de Referência - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0016706118318548)
+
+##  Metodologia
 
 O projeto segue uma abordagem ponta a ponta:
 
@@ -100,35 +104,8 @@ O projeto segue uma abordagem ponta a ponta:
 5. **Validação**: Avaliação e otimização
 6. **Recomendação**: Geração de insights acionáveis
 
-## 📚 Documentação
 
-Consulte os notebooks do projeto para:
-- Exploração exploratory data analysis (EDA)
-- Documentação de modelos
-- Exemplos de uso
-- Resultados e interpretações
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
-
-## 📧 Contato
-
-Para dúvidas ou sugestões sobre o projeto:
-- GitHub: [@vrenzd](https://github.com/vrenzd)
-- Issues: [Abrir uma issue](https://github.com/vrenzd/Solos_Inteligentes/issues)
-
-## 🙏 Agradecimentos
+##  Agradecimentos
 
 - Brazilian Soil Spectral Library (BSSL) pela disponibilização dos dados
 - Comunidade Python de Data Science
