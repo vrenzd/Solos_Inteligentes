@@ -294,7 +294,7 @@ mlflow ui --port 5000
 ---
 
 
-```
+
 ### Resumo das Decisões de Estruturação e Rigor Científico
 
 1. **Rigor Epistemológico e Teórico:** Integração formal dos fundamentos espectroscópicos (absorção eletrônica de óxidos de ferro em Vis e sobretons vibracionais de argilominerais em NIR/SWIR) com formulações matemáticas explícitas de PCA, K-NN e modelagem agronômica (EMBRAPA/IAC).
@@ -303,4 +303,4 @@ mlflow ui --port 5000
 4. **Deploy em Borda (TinyML C++):** Especificação do firmware header-only (`solos_tinyml.h`) otimizado para microcontroladores (ESP32/Arduino) com latência $< 1\text{ ms}$ e consumo de memória restrito ($< 35\text{ KB}$).
 5. **Links Canônicos:** Citações diretas e funcionais para o [Repositório GitHub](https://github.com/vrenzd/Solos_Inteligentes), o [Notebook no Kaggle](https://www.kaggle.com/code/victorrenzzo/solos-inteligentes) e o [Dataset BSSL no Zenodo](https://zenodo.org/records/8092774).
 
-```
+
